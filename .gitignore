@@ -1,0 +1,22 @@
+# O Auth Client Secret
+OAuthClientSecret.json
+
+# Secrets
+.env
+.env.*
+!.env.example
+*OAuthClientSecret*
+credentials.json
+secrets/
+
+# Go
+backend/bin/
+backend/tmp/
+backend/vendor/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
